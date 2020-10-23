@@ -1425,7 +1425,7 @@ namespace OpenQA.Selenium.Support.Events
             /// and any further operations performed on this element will have undefined behavior unless
             /// you know that the element and the page will still be present. If this element is not
             /// clickable, then this operation is a no-op since it's pretty common for someone to
-            /// accidentally miss  the target when clicking in Real Life
+            /// accidentally miss  the target when clicking in Real Life. i.
             /// </summary>
             public void Click()
             {
